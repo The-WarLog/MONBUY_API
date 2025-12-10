@@ -1,0 +1,10 @@
+services:
+  mysql:
+    image: 'docker.io/mysql:latest'
+    environment:
+      - 'MYSQL_DATABASE=jdbc:mysql://mysql-db:3306/monbuy'
+      - 'MYSQL_PASSWORD=root'
+      - 'MYSQL_ROOT_PASSWORD=verysecret'
+      - 'MYSQL_USER=root'
+    ports:
+      - '3306'

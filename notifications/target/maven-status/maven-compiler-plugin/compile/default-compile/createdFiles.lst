@@ -1,0 +1,4 @@
+com/monbuy/notifications/repository/NotificationRepo.class
+com/monbuy/notifications/NotificationsApplication.class
+com/monbuy/notifications/entity/Notification.class
+com/monbuy/notifications/entity/Transaction.class
