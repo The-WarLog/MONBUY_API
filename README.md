@@ -1,7 +1,7 @@
 # MONBUY_API
 
 ## 🚧 Project Status
-This project is currently under active development. More features and documentation are coming soon!
+This project is currently undergoing restructuring and renovation. More features and documentation are coming soon!
 
 ## 📖 About
 MONBUY_API is an API project designed to provide backend services for the MONBUY platform.
