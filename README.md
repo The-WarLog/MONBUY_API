@@ -1,30 +1,32 @@
 # MONBUY_API
 
-## 🚧 Project Status
+## Project Status
 This project is currently undergoing restructuring and renovation. More features and documentation are coming soon!
 
-## 📖 About
+## About
 MONBUY_API is an API project designed to provide backend services for the MONBUY platform.
 
-## ✨ Features
+## Features
+
 - Initial project structure established
+- new abstraction from old API
 - More features coming soon...
 
-## 🛠️ Tech Stack
+##Tech Stack
 Details will be added as the project develops.
 
-## 🚀 Getting Started
+##  Getting Started
 Setup and installation instructions will be provided as the project progresses.
 
-## 📝 Documentation
+## Documentation
 Comprehensive documentation will be added as features are implemented.
 
-## 🤝 Contributing
+## Contributing
 Contribution guidelines will be available soon.
 
-## 📄 License
+## License
 License information will be added.
 
 ---
 
-*This README will be updated regularly as the project develops.*
+*This README will be updated regularly as the project develops. HOLD TIGHT PEOPLE*
