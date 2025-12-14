@@ -22,7 +22,7 @@ my final year project.
 - More features coming soon...
 
 ## Tech Stack
-Spring Boot 4, Kafka , some touche FastAPI (its just a idea),SQL (due to ACID) and frontend with NUXT (Future)
+Spring Boot 4, Kafka , some touche FastAPI (its just a idea),SQL (due to ACID) and frontend with NUXT (Future), podman (contenarization)
 
 
 ##  Getting Started
