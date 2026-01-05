@@ -6,7 +6,7 @@ WELL PPL working around some hard Bugs , So If anyone wondering where the old Pr
 revamping the code base with Spring Boot 4 and latest Kafka features .
 Therefore anyfolks here Guys gotaa have to wait for some time cause you know its my college endsem exams.
 
-###NEW Update:
+### NEW Update:
  -  Recently caught Hepatitis A, sorry folks project went on hold still recovering guys hope so will be able to finish it after recovery.
 
 ## About
